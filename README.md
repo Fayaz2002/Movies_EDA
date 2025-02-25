@@ -5,13 +5,13 @@ Top 10 Directors by Movie Count: Identifying the most prolific filmmakers.
 Top Directors by Genre Profitability: Highlighting directors who generate the highest profits within specific genres.
 Genre Trends Over Time: Analyzing shifts in genre popularity and profitability.
 
-Objectives
+## Objectives
 Data Exploration: Clean and preprocess movie data to ensure accuracy.
 Visualization: Use libraries such as Matplotlib and Seaborn to create interactive and insightful plots.
 Trend Analysis: Evaluate trends in movie production, director performance, and genre-specific profitability to provide actionable insights for industry professionals and researchers.
 
 
-Methodology
+## Methodology
 Data Preprocessing:
 Import the dataset using Pandas.
 Handle missing values and outliers.
