@@ -34,7 +34,7 @@ Generate detailed visual reports that highlight trends and correlations in the d
 ## Top Directors
 ![Directors](https://github.com/user-attachments/assets/74ab42e3-5b1f-47f0-8077-322aa54fc1f6)
 
-## Profitable Genre
+## Best Studio for each Genre
 ![profit](https://github.com/user-attachments/assets/8483822c-0c27-42b8-86e7-1b8fd737b284)
 
 
