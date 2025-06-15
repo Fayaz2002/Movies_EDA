@@ -25,3 +25,16 @@ Visualization & Reporting:
 
 Create interactive dashboards and static plots to summarize key findings.
 Generate detailed visual reports that highlight trends and correlations in the dataset.
+
+# Results
+Genre Trend Overtime
+![genre](https://github.com/user-attachments/assets/a9d1a616-31e9-4e51-9056-d04b1c3aa5c8)
+
+
+Top Directors
+![Directors](https://github.com/user-attachments/assets/74ab42e3-5b1f-47f0-8077-322aa54fc1f6)
+
+Profitable Genre
+![profit](https://github.com/user-attachments/assets/8483822c-0c27-42b8-86e7-1b8fd737b284)
+
+
